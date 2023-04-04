@@ -146,6 +146,7 @@ aside p {
   border-radius: 40px ;
   color: #4e86ad;
   cursor: pointer;
+  font-weight: bold;
 }
 .right{
   width: 50%;
